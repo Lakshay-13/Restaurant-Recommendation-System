@@ -14,5 +14,5 @@ We got our dataset from yelp. The dataset contains 5 tables namely
 Reading the dataset from a tar file , and then converting it to CSV files.
 We performed EDA on the dataset and then came up with a plan of action.
 Firstly, we used item-item collaborative based filtering using cosine similarity.
-Second, we used embeddings of latent factors using stoichastic gradient descent.
+Second, we used embeddings of latent factors using stochastic gradient descent.
 Last but not the least, we implemented a hybrid of the above two.
